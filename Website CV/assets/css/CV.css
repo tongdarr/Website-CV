@@ -32,7 +32,6 @@ body {
 
 
 nav {
-	/*background-color: #4f4950;*/
 	background-color: white;
 	position: fixed;
 	height: 80px;
@@ -85,8 +84,8 @@ article{
 	border: solid;
 	border-color: black;
 	border-width: 5px;
-	width: 56.75%;
-	height: 65.5%;
+	width: 870px;
+	height: 500px;
 	margin-top: 125px;
 	margin-left: 155px;
 	background-color: #3f3a39;
